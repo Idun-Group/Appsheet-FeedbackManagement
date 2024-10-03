@@ -27,7 +27,7 @@ Make sure to add the following properties to your `Const.gs` file:
 - `LOCATION_ID`: The region of your Google Cloud project
 - `MODEL_ID`: The ID of the Gemini model to use
 
-### Like to your AppSheet Application 
+### Link to your AppSheet Application 
 Save the script as a standalone Apps Script project in your Google Drive. Then, open your AppSheet application, go to the "Bot" section, and select the script from your Drive.
 
 ## Usage
